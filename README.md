@@ -49,7 +49,7 @@ In the previous sections, you updated your README.md file with your conclusions.
 <img width="843" alt="Screen Shot 2021-06-27 at 10 02 05 PM" src="https://user-images.githubusercontent.com/80833988/123582798-51f35d00-d793-11eb-9866-c3ee04a6a828.png">
 ](url)
 
-Its very complicated to make a decision on which strategy is best to use. However in this case our first model is predicting an actual trend is better. We see that first model project results are closer to the actual ones, but the classification report shows that the first one has slightly better quality on the prediction side . Very likely that first model  simply follows the first one, in order to make a decision I would prefer to run one more version of the model to make sure my prediction is correct.
+In conclusion its hard to come to a decision on which strategy is best to use. However in this case our first model is predicting an actual trend is better. We see that first model project results are closer to the actual ones, but the classification report shows that the first one has slightly better quality on the prediction side . Very likely that first model  simply follows the first one, in order to make a decision I would prefer to run one more version of the model to make sure my prediction is correct.
 
 
 
